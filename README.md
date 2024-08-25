@@ -1,1 +1,2 @@
 # python_sanke_game
+This classic Snake game, created using Python's Turtle module, features a simple yet engaging interface where players control a snake to eat food and grow in length. The game tracks the player's score, increasing as the snake consumes more food. The game ends if the snake collides with the walls or itself, with an option to restart the game. With responsive controls and random food placement, the game offers a fun and challenging experience.
